@@ -4,7 +4,6 @@ D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\users
 D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\DTO\UserDto.java
 D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\auth\CorsConfig.java
 D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\models\entities\UserCredentials.java
-D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\scheduled\DatabaseKeepAlive.java
 D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\auth\SpringSecurityConfig.java
 D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\exceptions\EntityNotFoundException.java
 D:\ProyectosReactSpring\users-Api\users-api\src\main\java\com\nicode\users\usersapi\controllers\AuthController.java
