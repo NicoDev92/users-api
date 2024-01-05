@@ -1,4 +1,4 @@
-# Created at 2024-01-05T08:08:27.709
+# Created at 2024-01-05T08:28:22.889
 Boot Manifest-JAR contains absolute paths in classpath 'D:\ProyectosReactSpring\users-Api\users-api\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
